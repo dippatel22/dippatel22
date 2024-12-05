@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **Advanced ReactJS, Generative AI, and Predictive Maintenance Systems**.
 - 💞️ I’m looking to collaborate on **open-source projects related to AI, ML , and Web Development**.
 - 📫 How to reach me: **pateldip8422@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/dippatel22).
-- 😄 Pronouns: **He/Him**.
 - ⚡ Fun fact: **I created a machine learning-powered heart disease prediction model and a web scraper etc.. during my bachelor's.** 
 
 
